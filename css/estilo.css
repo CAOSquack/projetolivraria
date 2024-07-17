@@ -1,29 +1,12 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-/****HEADER****/
 #topo {
-    background-color: #850000;
+    background-color: gray;
 }
-#logo {
-    background-color: black;
-    background-image: url(../images/capalivro.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    width: 350px;
-    height: 350px;
-}
-/****NAV****/
 #menu {
-    background-color: crimson;
+    background-color: whitesmoke;
 }
-
-.destaques {
-    background-color: firebrick;
+.destaques, .produtos, .sobre, .contato{
+    background-color: darkgray;
 }
 #rodape {
-    background-color: dimgray;
+    background-color: dimgrey;
 }
